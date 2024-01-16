@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegoberum
 - 👀 I’m interested in software engineering, Java, Python, and soccer!
-- 🌱 I’m currently learning Data Structures in Java
+- 🌱 I’m currently learning Principles of Programming Languages
 - 💞️ I’m looking to collaborate with many people on many different projects!
 - 📫 How to reach me @diego.berumen2004@gmail.com
 
